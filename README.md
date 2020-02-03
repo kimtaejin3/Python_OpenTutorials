@@ -1,2 +1,3 @@
 # Python_OpenTutorials
-python open tutorial 강의 수강 기록
+
+-  [설치 및 연동](https://opentutorials.org/course/3256/19789, "link1")
